@@ -15,10 +15,10 @@ init(autoreset=True)
 
 def print_banner():
     print(f"\n{Fore.CYAN}{'='*45}")
-    print(f"{Fore.YELLOW}       Nodepay Auto Referral Bot")
-    print(f"{Fore.YELLOW}       github.com/im-hanzou")
-    print(f"{Fore.YELLOW}       do with your own risk")
-    print(f"{Fore.CYAN}{'='*45}\n")
+    print(f"{Fore.BLUE}       Nodepay Auto Referral Bot")
+    print(f"{Fore.BLUE}       github.com/KendalXploit")
+    print(f"{Fore.BLUE}       do with your own risk")
+    print(f"{Fore.BLUE}{'='*45}\n")
 
 def log_step(message: str, type: str = "info"):
     timestamp = datetime.now().strftime("%H:%M:%S")
