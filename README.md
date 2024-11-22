@@ -1,7 +1,7 @@
 # Nodepay Autoreferral Bot
 Automatic referral script for Nodepay Account using captcha solver and proxies.
 ### Tools and components required
-1. Nodepay Account | Register: [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=ZUCBuJaIoBXLE6J)
+1. Nodepay Account | Register: [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=Dteeua5Z5oB7Uv6)
 2. Proxies Static Residental | [FREE 10 PREMIUM PROXIES](https://www.webshare.io/?referral_code=p7k7whpdu2jg) | [Free 100 Premium Proxies](https://proxyscrape.com/?ref=odk1mmj) | Good Premium Proxies (paid): [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed), [proxy-cheap](https://app.proxy-cheap.com/r/JysUiH), [infatica](https://dashboard.infatica.io/aff.php?aff=544)
 3. Captcha Solvers API keys, you need to recharge credits | [2captcha.com](https://2captcha.com/?from=24541144) | [capmonster.cloud](https://capmonster.cloud/) | [anti-captcha.com](https://getcaptchasolution.com/83xoisyxvn)
 4. VPS or RDP (OPTIONAL)
@@ -20,6 +20,9 @@ pip install -r requirements.txt
 ```bash
 pip3 install -r requirements.txt
 ```
+# Tutorial
+[![Watch the video](Screenshot_2024-11-22-12-22-39-713_com.android.chrome.jpg)](https://vt.tiktok.com/ZSj9CL8uT/)
+
 ### Run the Bot
 - Replace the proxies example in ```proxies.txt``` to your own proxies with format:
 ```bash
